@@ -120,3 +120,7 @@ dd.clear {
     font-size: 27px;
     margin-bottom: 30px;
 }
+
+.social a{
+    border-bottom: none;
+}
